@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/moona/static/css/main.f1c0fa79.chunk.css",
+    "main.js": "/moona/static/js/main.a5e856bb.chunk.js",
+    "main.js.map": "/moona/static/js/main.a5e856bb.chunk.js.map",
+    "runtime-main.js": "/moona/static/js/runtime-main.1ad57ceb.js",
+    "runtime-main.js.map": "/moona/static/js/runtime-main.1ad57ceb.js.map",
+    "static/css/2.969f9ec4.chunk.css": "/moona/static/css/2.969f9ec4.chunk.css",
+    "static/js/2.5104e83d.chunk.js": "/moona/static/js/2.5104e83d.chunk.js",
+    "static/js/2.5104e83d.chunk.js.map": "/moona/static/js/2.5104e83d.chunk.js.map",
+    "index.html": "/moona/index.html",
+    "static/css/2.969f9ec4.chunk.css.map": "/moona/static/css/2.969f9ec4.chunk.css.map",
+    "static/css/main.f1c0fa79.chunk.css.map": "/moona/static/css/main.f1c0fa79.chunk.css.map",
+    "static/js/2.5104e83d.chunk.js.LICENSE.txt": "/moona/static/js/2.5104e83d.chunk.js.LICENSE.txt",
+    "static/media/Cards.css": "/moona/static/media/bg3.8b94ecf7.jpg",
+    "static/media/slider.css": "/moona/static/media/bg8.1eda0be6.jpg",
+    "static/media/slick-theme.css": "/moona/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ad57ceb.js",
+    "static/css/2.969f9ec4.chunk.css",
+    "static/js/2.5104e83d.chunk.js",
+    "static/css/main.f1c0fa79.chunk.css",
+    "static/js/main.a5e856bb.chunk.js"
+  ]
+}
