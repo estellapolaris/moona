@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/moona/static/css/main.f1c0fa79.chunk.css",
-    "main.js": "/moona/static/js/main.cd0fe13f.chunk.js",
-    "main.js.map": "/moona/static/js/main.cd0fe13f.chunk.js.map",
+    "main.js": "/moona/static/js/main.af6bf110.chunk.js",
+    "main.js.map": "/moona/static/js/main.af6bf110.chunk.js.map",
     "runtime-main.js": "/moona/static/js/runtime-main.1ad57ceb.js",
     "runtime-main.js.map": "/moona/static/js/runtime-main.1ad57ceb.js.map",
     "static/css/2.969f9ec4.chunk.css": "/moona/static/css/2.969f9ec4.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.969f9ec4.chunk.css",
     "static/js/2.5104e83d.chunk.js",
     "static/css/main.f1c0fa79.chunk.css",
-    "static/js/main.cd0fe13f.chunk.js"
+    "static/js/main.af6bf110.chunk.js"
   ]
 }
